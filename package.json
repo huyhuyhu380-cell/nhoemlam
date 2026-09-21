@@ -1,0 +1,27 @@
+{
+  "name": "sunwin-taixiu-ai",
+  "version": "6.0.0",
+  "description": "Sunwin Tài Xỉu AI - 14 thuật toán + LSTM + WebSocket + API hybrid",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "ws": "^8.18.0"
+  },
+  "keywords": [
+    "taixiu",
+    "sunwin",
+    "ai",
+    "lstm",
+    "websocket"
+  ],
+  "author": "@cskhgiabao",
+  "license": "MIT"
+}
